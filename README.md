@@ -1,2 +1,2 @@
 # SOPE
-SOPE project for college
+SOPE (Operating systems) project for college consisting in a multi-threaded parking lot management application.
